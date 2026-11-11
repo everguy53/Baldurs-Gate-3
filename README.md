@@ -234,4 +234,4 @@ Baldur's Gate 3 is offered as a full free version, providing access to all featu
 Download Baldur's Gate 3 today and embark on the adventure of a lifetime! Experience the thrill of tactical combat, deep narratives, and endless possibilities in this extraordinary RPG!
 
 ---
-**Last updated:** 2026-11-11 01:31:23 UTC
+**Last updated:** 2026-11-11 08:30:00 UTC
